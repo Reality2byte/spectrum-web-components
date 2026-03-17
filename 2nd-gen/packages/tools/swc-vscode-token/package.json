@@ -26,7 +26,7 @@
     "@adobe/swc-tokens": "workspace:*",
     "@types/node": "25.2.3",
     "@types/vscode": "1.109.0",
-    "esbuild": "0.27.3",
+    "esbuild": "0.25.0",
     "typescript": "5.9.2",
     "vitest": "4.0.15",
     "vsce": "2.15.0"
